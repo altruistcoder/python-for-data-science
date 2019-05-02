@@ -13,4 +13,8 @@ Code files for understanding the basics of Numpy Library in python.
 
 Code files for understanding the basics of Matplotlib Library in python.
 
+* [Pandas](https://github.com/altruistcoder/python-for-data-science/blob/master/Pandas):
+
+Code files for understanding the basics of Pandas Library in python.
+
 
